@@ -7,7 +7,7 @@
 ;This table is based on the ISO 2 letter (Alpha-2 code, ISO 639-1) and 3 letter (Alpha-3 code, ISO 639-2) Standard Codes for the Representation of Names of Languages.
 
 ;Language	Code 2	Code 3
-(defparameter +data+
+(defconstant +data+
   '(("Abkhazian"	"ab"	"abk")
     ("Afar"	"aa"	"aar")
     ("Afrikaans"	"af"	"afr")
